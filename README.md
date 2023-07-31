@@ -2,6 +2,10 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+## Webapp interface
+
+![Web App Screenshot](screenshots/web_interface.jpg?v=1)
+
 ## Description
 
 The Semantic Text Similarity Checker is a Flask-based web application that utilizes the SentenceTransformers library with the "stsb-roberta-large" model to determine the semantic similarity between two input sentences. It computes the similarity score as a percentage and provides the user with a quick understanding of how closely related the sentences are.
