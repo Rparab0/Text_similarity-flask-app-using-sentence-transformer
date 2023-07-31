@@ -10,7 +10,7 @@ The Semantic Text Similarity Checker is a Flask-based web application that utili
 
 Here is a screenshot of the web interface of our Semantic Text Similarity Checker:
 
-![Web App Screenshot](screenshots/web_interface.jpg)
+![Web App Screenshot](screenshots/web_interface (1).jpg)
 
 ## Features
 
